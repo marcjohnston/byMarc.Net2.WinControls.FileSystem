@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.WinControls.FileSystem" Title="byMarc.Net2.WinControls.FileSystem Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.FolderSelector.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000005_overloads--.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.OpenFileSelector.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_000000000000000E_overloads--.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.SaveFileSelector.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000015_overloads--.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.OpenFileSelector.FileSelected" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_000000000000000C.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">FileSelected Event {byMarc.Net2.WinControls.FileSystem.OpenFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.SaveFileSelector.FileSelected" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000013.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">FileSelected Event {byMarc.Net2.WinControls.FileSystem.SaveFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.FolderSelector.Filter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Filter Property {byMarc.Net2.WinControls.FileSystem.FolderSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.OpenFileSelector.Filter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_000000000000000A.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Filter Property {byMarc.Net2.WinControls.FileSystem.OpenFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.SaveFileSelector.Filter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000011.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Filter Property {byMarc.Net2.WinControls.FileSystem.SaveFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.FolderSelector.FolderSelected" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000003.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">FolderSelected Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.FolderSelector" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000000.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">FolderSelector Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.OpenFileSelector.InitialDirectory" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_000000000000000B.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">InitialDirectory Property {byMarc.Net2.WinControls.FileSystem.OpenFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.SaveFileSelector.InitialDirectory" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000012.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">InitialDirectory Property {byMarc.Net2.WinControls.FileSystem.SaveFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.OpenFileSelector" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000008.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">OpenFileSelector Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.SaveFileSelector" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_000000000000000F.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">SaveFileSelector Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.OpenFileSelector.SelectedFileChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_000000000000000D.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">SelectedFileChanged Event {byMarc.Net2.WinControls.FileSystem.OpenFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.SaveFileSelector.SelectedFileChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000014.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">SelectedFileChanged Event {byMarc.Net2.WinControls.FileSystem.SaveFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.FolderSelector.SelectedFolderChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000004.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">SelectedFolderChanged Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.FolderSelector.Text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000001.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Text Property {byMarc.Net2.WinControls.FileSystem.FolderSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.OpenFileSelector.Text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000009.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Text Property {byMarc.Net2.WinControls.FileSystem.OpenFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem.SaveFileSelector.Text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000010.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">Text Property {byMarc.Net2.WinControls.FileSystem.SaveFileSelector}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000017.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">byMarc.Net2.WinControls.FileSystem Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.FileSystem Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.FileSystem.chm::/topic_0000000000000016.html" LinkGroup="byMarc.Net2.WinControls.FileSystem">byMarc.Net2.WinControls.FileSystem Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
